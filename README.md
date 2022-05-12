@@ -8,7 +8,7 @@
 
 ##### General Information
 
-- Purpose of the project is to train myself on using useState, manipulating data (an array of objects) and implementing Icon show/hide functionality
+- Purpose of the project is to train myself on using useState and manipulating local data
 
 ![](public/My%20Video.gif)
 
