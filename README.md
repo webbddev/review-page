@@ -5,12 +5,11 @@
 <!-- > Live demo [_here_](https://www.example.com). If you have the project hosted somewhere, include the link here. -->
 
 <!-- <hr style="border:1px dotted lightblue"> </hr> -->
+![](public/My%20Video.gif)
 
 ##### General Information
 
 - Purpose of the project is to train myself on using useState and manipulating local data
-
-![](public/My%20Video.gif)
 
 ##### Technologies Used
 
